@@ -1,6 +1,6 @@
-#QGIS_Karte
+# QGIS_Karte
 
-##Übersicht der Coronatestzentren in Hamburg
+## Übersicht der Coronatestzentren in Hamburg
 
 - rote Punkte: Antigentest nicht barrierefrei
 - orangene Punkte: Antigentest und PCR-Test nicht barrierefrei
